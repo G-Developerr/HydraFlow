@@ -97,4 +97,38 @@ I'm a full-stack developer, and HydraFlow is the project I'd point to as the cle
 
 ## Screenshots
 
-*(See `/screenshots`. Store names, product identifiers, and other business-identifying details have been redacted for confidentiality; the underlying workflows and data are real.)*
+## Screenshots
+ 
+*Store names, product identifiers, and other business-identifying details have been redacted for confidentiality — the underlying workflows and data are real.*
+ 
+### Operations Dashboard
+![Login](screenshots/Login.jpg)
+![Main Dashboard](screenshots/Main_Screen.jpg)
+![Low Stock Alerts](screenshots/Low_Stock.jpg)
+ 
+### Dynamic Pricing Engine
+![Pricing Rules](screenshots/Prices.jpg)
+ 
+### Supplier & Catalog Integration
+![Supplier Sync](screenshots/Qogita.jpg)
+![Supplier Order Pages](screenshots/Qogita_Pages.jpg)
+![Supplier Panel](screenshots/Qogita_Panel.jpg)
+ 
+### Inventory Management
+![Stock Overview](screenshots/Stock.jpg)
+![Product Catalog](screenshots/Product.jpg)
+![New Products](screenshots/New_Products.jpg)
+![Update Product](screenshots/Update_Product.jpg)
+![Bulk Upload](screenshots/Upload.jpg)
+ 
+### Multi-Marketplace Order Sync
+![Marketplace Channel A](screenshots/Shop_1.jpg)
+![Marketplace Channel B](screenshots/Shop_2.jpg)
+![Marketplace Channel C](screenshots/Shop2.jpg)
+![Marketplace Channel D](screenshots/Shopflix.jpg)
+ 
+### Exclusions & System Logs
+![Exclusion Management](screenshots/Exceptions.jpg)
+![Delivery Check](screenshots/Check.jpg)
+![System Logs](screenshots/Logs.jpg)
+ 
