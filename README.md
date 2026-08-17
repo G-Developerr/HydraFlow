@@ -91,7 +91,7 @@ A third-party stock-sync gateway was failing on every call with no visible error
 
 I'm a full-stack developer, and HydraFlow is the project I'd point to as the clearest example of how I work end-to-end: designing a system architecture from a messy real-world requirement, integrating with third-party APIs that don't behave the way their documentation implies, debugging production data issues under real time pressure, and making pragmatic decisions that keep the codebase maintainable as the business's needs keep changing.
 
-**Contact:** [your email] · [LinkedIn] · [portfolio site, if applicable]
+**Contact:** [https://www.instagram.com/mhtsos_tzinavos/] · [https://www.linkedin.com/in/jim-tzinavos-b73370350/] · [https://g-developerr.github.io/Portfolio/]
 
 ---
 
