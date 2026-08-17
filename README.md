@@ -15,7 +15,7 @@ HydraFlow replaces that entirely: it ingests supplier data automatically, recalc
 
 This is a **live system in daily production use**, not a portfolio demo — every feature described below is running against a real product catalog and real order flow today.
 
-I own this project end-to-end: system architecture, backend, frontend, database design, third-party API integration, and production debugging.
+I made this project end-to-end: system architecture, backend, frontend, database design, third-party API integration, and production debugging.
 
 ---
 
